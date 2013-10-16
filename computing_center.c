@@ -1,4 +1,4 @@
 void computing() {
 	// initialize data
-	// implement algorithm
+	// implement algorithm version 2
 }
