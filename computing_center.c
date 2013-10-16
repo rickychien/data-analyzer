@@ -1,5 +1,5 @@
 void computing() {
 	// initialize data
 	// implement algorithm
-	// fix bug version 1
+	// fix bug version 2
 }
